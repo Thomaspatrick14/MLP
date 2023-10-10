@@ -10,3 +10,5 @@ This project will implement a Multi-Layer Perceptron (MLP) from scratch to class
 • ReLU and Sigmoid activations.
 
 • Mini-batch Gradient Descent (SGD) and Cross-Entropy loss.
+
+**File is not uploaded as per "Eindhoven University of Technology" (TU/e) assignment guidelines.**
